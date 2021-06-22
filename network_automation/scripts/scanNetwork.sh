@@ -1,0 +1,1 @@
+sudo nmap -sn --max-parallelism 100 192.168.1.0/24 

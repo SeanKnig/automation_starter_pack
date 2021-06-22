@@ -1,0 +1,30 @@
+[
+    {
+      "class": "Galaxy",
+      "registry": "NCC-1701-D",
+      "armaments": {
+          "tier1": "phasers",
+          "tier2": "Photon Torpedos"
+      },
+
+      "defenses": {
+          "primary": "Deflector shields"
+      },
+
+    "maximum-speed": "Warp 9.5",
+
+    "propulsion":{
+        "option1":"Impulse Drive",
+        "option2": "Warp Drive"
+    },
+
+    "power": {
+        "option1": "Matter reaction",
+        "option2": "Antimatter reaction"
+    }
+
+    }
+
+]
+
+

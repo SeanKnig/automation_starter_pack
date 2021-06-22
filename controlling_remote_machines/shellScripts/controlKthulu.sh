@@ -1,0 +1,1 @@
+sudo ssh device_username@IP_Address_Of_Device
