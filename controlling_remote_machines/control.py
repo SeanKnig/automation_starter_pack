@@ -38,11 +38,6 @@ class Control():
         except Exception as e:
             print(e)
 
-
-        netScan = "netBotv0_01: \n ___________________Network Status__________________\n                    %s \n %s \n"%(result['status'], result['output'])
-        print(netScan)
-
-
 if __name__ == '__main__':
     c3po = Control()
     c3po.heartBeat()
